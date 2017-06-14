@@ -13,12 +13,13 @@ an Altera FPGA board.
 
 During this laboratory students shall:
 
- Identify the architecture of the multiprocessor analyzing the provided Altera
+- Identify the architecture of the multiprocessor analyzing the provided Altera
 design files
- Investigate possibilities to optimize the memory footprint of an application
- Implement an application that demonstrates communication between the different
+- Investigate possibilities to optimize the memory footprint of an application
+- Implement an application that demonstrates communication between the different
 cores and I/O-handling
- Write a short report presenting the features and limitations of the processor
+- Write a short report presenting the features and limitations of the processor
 and possible mechanisms for interprocessor communication
+
 Students should take this laboratory very serious, since laboratory 2 will require a
 very good understanding of the same multiprocessor.
